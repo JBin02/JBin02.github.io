@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jongbin Kim
-permalink: /jongbin/
 ---
 
 I am a B.S. student in the Department of Automotive Engineering at Keimyung University.  
